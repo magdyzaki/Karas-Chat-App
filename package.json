@@ -1,0 +1,12 @@
+{
+  "name": "karas-chat-deploy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install": "cd chat-app/backend && npm install",
+    "start": "cd chat-app/backend && npm start"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
